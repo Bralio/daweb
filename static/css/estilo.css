@@ -1,0 +1,22 @@
+header {
+	font-family: Arial;
+    text-align: center;
+    background-color: #F0E68C;
+    color: black;
+    height: auto;
+  
+    margin-left: 8px;
+    margin-right: 4px;
+
+
+  
+}
+
+
+.card{
+	background: #DAF7A6  ;
+	
+}
+.card-1{
+ background: #CB4335;
+}
